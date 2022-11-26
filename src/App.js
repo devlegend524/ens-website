@@ -80,11 +80,11 @@ function App() {
     },
     {
       header: "Will I be charged annually for my .weth domain?",
-      body: "No , wrapped domains are one time payment service.",
+      body: "No , wrapped domains are a one time payment service.",
     },
     {
       header: "How can I sell my .weth web3 domain?",
-      body: "To do this, you should use a secondary market such as Opensea , Looksrare",
+      body: "You can sell your .weth domains using opensea , x2y2 or any other supported nft marketplaces",
     },
   ];
 
@@ -104,12 +104,12 @@ function App() {
             (ETH) address to IPFS CID, images, text, and more.
           </p>
           <a
-            href="https://wrapped-nameservice.netlify.app/"
+            href="http://app.wrapped.domains/"
             target="_blank"
             rel="noreferrer"
             className="rounded-xl bg-[#2563eb] text-[#fff] w-[200px] min-h-[48px] text-[14px] px-[24px] py-[12px] h-[24px] text-center"
           >
-            Open app
+            Open App
           </a>
         </div>
         <div className="flex flex-col sm:flex-row mt-[148px] gap-x-3">
@@ -241,7 +241,7 @@ function App() {
               perform batch transactions when transferring
             </p>
             <a
-              href="https://wrapped-nameservice.netlify.app/"
+              href="http://app.wrapped.domains/"
               target="_blank"
               rel="noreferrer"
             >
@@ -301,14 +301,32 @@ function App() {
         </div>
         <img alt="icon" src={logo} className="mt-[160px] w-[40px] mx-auto" />
         <div className="flex justify-center gap-x-10 mt-[20px] text-[13px] text-[#565461]">
-          <span>Docs</span>
+          <a
+              href="https://docs.wrapped.domains/"
+              target="_blank"
+              rel="noreferrer"
+          >
+            <span>Docs</span>
+          </a>
           <span>Governance</span>
           <span>Community</span>
-          <span>App</span>
+          <a
+            href="http://app.wrapped.domains/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <span>App</span>
+          </a>
         </div>
         <div className="flex justify-center gap-x-10 mt-[20px] mb-[80px] text-[13px] text-[#c4c4c4]">
           <span>Github</span>
-          <span>Discord</span>
+          <a
+            href="https://discord.gg/dJDf642KFM"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <span>Discord</span>
+          </a>
           <a
             href="https://twitter.com/wrapped_domains"
             target="_blank"
