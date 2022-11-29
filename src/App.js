@@ -104,7 +104,7 @@ function App() {
             (ETH) address to IPFS CID, images, text, and more.
           </p>
           <a
-            href="http://app.wrapped.domains/"
+            href="https://app.wrapped.domains/"
             target="_blank"
             rel="noreferrer"
             className="rounded-xl bg-[#2563eb] text-[#fff] w-[200px] min-h-[48px] text-[14px] px-[24px] py-[12px] h-[24px] text-center"
@@ -241,7 +241,7 @@ function App() {
               perform batch transactions when transferring
             </p>
             <a
-              href="http://app.wrapped.domains/"
+              href="https://app.wrapped.domains/"
               target="_blank"
               rel="noreferrer"
             >
@@ -311,7 +311,7 @@ function App() {
           <span>Governance</span>
           <span>Community</span>
           <a
-            href="http://app.wrapped.domains/"
+            href="https://app.wrapped.domains/"
             target="_blank"
             rel="noreferrer"
           >

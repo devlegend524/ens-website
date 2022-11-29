@@ -27,7 +27,7 @@ const Navbar = () => {
         </p> */}
         <div>
           <a
-            href="http://app.wrapped.domains/"
+            href="https://app.wrapped.domains/"
             target="_blank"
             rel="noreferrer"
             className="text-[#2563eb] inline-block"
